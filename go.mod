@@ -1,4 +1,4 @@
-module github.com/knights-analytics/hugot
+module github.com/lairdm/hugot
 
 go 1.24.0
 
